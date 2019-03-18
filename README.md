@@ -1,4 +1,4 @@
-# OpenLawData-Project
+# DART-Disclosure-Analysis
 
 [기업공시시스템 OPEN API](http://dart.fss.or.kr "DART 홈페이지로 이동")를 활용한 기업 공시데이터 분석 프로젝트입니다.
 
